@@ -1,0 +1,6 @@
+// provider packageil athgyam class create chyitte annete (change Notofier) use chyum
+ aa use chyitha Notifier direct Material App munba konde varum  ( Change Notifier Provider { create (ctx)=>Producta });
+
+ Products Linbked with Main and passing the data Distrubuted in Mains
+  provider chyitha items AGAN USE CHYUM ANNE PARAGAL
+   provider .of<Class name athe class anoo cahnge akkuna >(contest)
